@@ -4,7 +4,7 @@
 
 ## 项目
 ### AI大模型赋能的多模态语义通信
-#### 项目地址:
+#### 项目地址：https://github.com/jiangfeibo/MultimodalSC
 
 <!--
 
